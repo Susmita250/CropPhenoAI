@@ -1,4 +1,3 @@
-# CropPhenoAI
 # CropPhenoAI (v1.0.0-Beta)
 ### An Open-Source Localized System Architecture for High-Throughput Phenomics & Multi-Trait Selection
 

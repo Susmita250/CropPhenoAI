@@ -1,5 +1,6 @@
 # CropPhenoAI (v1.0.0-Beta)
 ### An Open-Source Localized System Architecture for High-Throughput Phenomics & Multi-Trait Selection
+👉 **[CLICK HERE TO TRY THE LIVE INTERACTIVE APP](https://susmita-stha.shinyapps.io/CropPhenoAI/)** 👈
 
 **Author:** Susmita Shrestha 
 **Status:** Operational Architecture Prototype / Open-Source Beta Release
